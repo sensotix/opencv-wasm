@@ -1,7 +1,7 @@
 {
   "name": "opencv-wasm",
-  "version": "4.3.0-10",
-  "description": "Precompiled OpenCV 4.3.0 to JavaScript + WebAssembly for node.js environment",
+  "version": "4.7.0-11",
+  "description": "Precompiled OpenCV 4.7.0 to JavaScript + WebAssembly for node.js environment",
   "main": "index.js",
   "directories": {
     "example": "examples"
@@ -24,7 +24,7 @@
     "type": "git",
     "url": "git+https://echamudi@github.com/echamudi/opencv-wasm.git"
   },
-  "author": "Ezzat Chamudi",
+  "author": "Christoph Kovacs <christoph.kovacs@sensotix.com>, forked from Ezzat Chamudi",
   "license": "BSD-3-Clause",
   "bugs": {
     "url": "https://github.com/echamudi/opencv-wasm/issues"
